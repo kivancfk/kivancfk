@@ -25,13 +25,12 @@ ________________________________________________________________________________
 </p>
 
 
+________________________________________________________________________________________________________________________________
 
 ### 📊 GitHub Stats:
 ![Kıvanç's GitHub stats](https://github-readme-stats.vercel.app/api?username=kivancfk&show_icons=true&theme=radical)
 
+________________________________________________________________________________________________________________________________
 
 ### 🧠 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kivancfk&layout=compact&theme=radical)
-
-
-
