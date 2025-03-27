@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I am currently pursuing a Bachelor of Science in Computer Science at Middle East Technical University, with a particular interest in data science, machine learning, and cybersecurity.
   
@@ -10,6 +10,8 @@
 
 ________________________________________________________________________________________________________________________________
 
+## Languages and Tools I Use:
+
 ### 🧑‍💻 Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -19,22 +21,24 @@ ________________________________________________________________________________
 ### 📚 Frameworks:
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![JavaFX](https://img.shields.io/badge/-JavaFX-FF5733?style=flat-square&logo=openjdk&logoColor=white)
 
 ### 🗄️ Databases:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### ☁️ Cloud & Tools:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
+
 ________________________________________________________________________________________________________________________________
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![Kıvanç's GitHub stats](https://github-readme-stats.vercel.app/api?username=kivancfk&show_icons=true&theme=radical)
 
 ________________________________________________________________________________________________________________________________
 
-### 🧠 Most Used Languages:
+## 🧠 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kivancfk&layout=compact&theme=radical)
