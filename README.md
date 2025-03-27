@@ -8,6 +8,7 @@
   
 - 📫 Feel free to contact me at filizci.kivanc@metu.edu.tr to discuss potential collaborations or research opportunities.
 
+________________________________________________________________________________________________________________________________
 
 ### ⚡ Technologies I Use:
 <p align="left">
@@ -24,17 +25,13 @@
 </p>
 
 
-## 📊 GitHub Stats:
+
+### 📊 GitHub Stats:
 ![Kıvanç's GitHub stats](https://github-readme-stats.vercel.app/api?username=kivancfk&show_icons=true&theme=radical)
 
-## 🧠 Most Used Languages:
+
+### 🧠 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kivancfk&layout=compact&theme=radical)
 
 
-###🛠️ Skills and Tools:
-| Languages   | Frameworks    | Databases   | Cloud       |
-|-------------|----------------|-------------|-------------|
-| Python      | Django         | PostgreSQL  | Azure       |
-| Java        | Spring Boot    | MongoDB     | AWS         |
-| C           | Flask          | MySQL       | Google Cloud|
-| JavaScript  | React          | SQLite      | Docker      |
+
