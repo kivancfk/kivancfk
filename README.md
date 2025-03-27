@@ -25,10 +25,10 @@
 
 
 ## 📊 GitHub Stats:
-![Kıvanç's GitHub stats](https://github-readme-stats.vercel.app/api?username=kivancfilizci&show_icons=true&theme=radical)
+![Kıvanç's GitHub stats](https://github-readme-stats.vercel.app/api?username=kivancfk&show_icons=true&theme=radical)
 
 ## 🧠 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kivancfilizci&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kivancfk&layout=compact&theme=radical)
 
 
 ###🛠️ Skills and Tools:
