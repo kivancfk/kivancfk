@@ -22,6 +22,8 @@ ________________________________________________________________________________
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-FF5733?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
 
 ### 🗄️ Databases:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
