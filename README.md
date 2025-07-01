@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I am currently pursuing a Bachelor of Science in Computer Science at Middle East Technical University, with a particular interest in data science, machine learning, and cybersecurity.
+- 🔭 I hold a Bachelor of Science in Computer Engineering from Middle East Technical University (METU), completed in June 2025. I have a strong interest in data science, machine learning, and software development.
   
 - 🌱 I completed an intensive Data Science internship program organized by Kodluyoruz & Patika Dev in July 2022, where I gained hands-on experience with data analysis, machine learning algorithms, and data visualization techniques.
   
