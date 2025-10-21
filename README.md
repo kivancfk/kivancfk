@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-- 🔭 I hold a Bachelor of Science in Computer Engineering from Middle East Technical University (METU), completed in June 2025. I have a strong interest in data science, machine learning, and software development.
-  
-- 🌱 I completed an intensive Data Science internship program organized by Kodluyoruz & Patika Dev in July 2022, where I gained hands-on experience with data analysis, machine learning algorithms, and data visualization techniques.
-  
-- 👯 I am actively seeking collaboration opportunities on projects related to data science, with a focus on solving real-world problems through advanced analytics and machine learning solutions. I am eager to apply my skills in Python, R, SQL, and related technologies to contribute to meaningful research and practical applications.
-  
-- 📫 Feel free to contact me at filizci.kivanc@metu.edu.tr to discuss potential collaborations or research opportunities.
+- 🔭 I’m a Senior Data Analyst in HR with a B.Sc. in Computer Engineering from METU (June 2025). I’m passionate about data science, machine learning, and software development.
+
+- 🌱 I completed the Kodluyoruz & Patika.dev Data Science Internship (July 2022) and the HarvardX Data Science Professional Certificate (October 2025), gaining hands-on experience in exploratory data analysis, ML modeling, and visualization.
+
+- 👯 In my current role, I build SQL-based solutions for people analytics and reporting. I enjoy turning messy data into actionable insights and reliable, repeatable workflows.
+
+- 📫 I am actively seeking impactful collaboration opportunities and research positions where I can apply my skills in advanced analytics to solve complex, real-world problems. My interest lies in projects that leverage:
+    * Machine Learning for predictive modeling (e.g., risk analysis, recommendation systems).
+    * Data-Driven Solutions that lead to measurable, practical outcomes.
+    * Core tools: Python, R, SQL.
+      
+Contact: filizci.kivanc@metu.edu.tr
 
 ________________________________________________________________________________________________________________________________
 
