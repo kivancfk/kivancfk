@@ -4,7 +4,7 @@
 
 - 💼 I build SQL-based people-analytics and reporting-automation solutions, plus cloud data pipelines on Google Cloud (BigQuery, dbt, Airflow) and ML scoring services.
 - 🎓 **HarvardX Data Science Professional Certificate** (Oct 2025) · **Codecademy Data Engineer Career Path** (2026) · **Kodluyoruz & Patika.dev Data Science Internship** (2022).
-- 🌍 Open to Data Analyst / Engineer / Scientist roles in the **from October 2026**.
+- 🌍 Open to Data Analyst / Engineer / Scientist roles.
 - 📫 Reach me at **kivancfk@gmail.com**
 
 ---
