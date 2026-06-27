@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kıvanç
 
-🔭 **Senior Data Analyst (People Analytics / HR)** with a B.Sc. in Computer Engineering from METU (2025), building toward **Data Engineering & Data Science**. I turn messy operational data into reliable, repeatable pipelines and decision-ready insight.
+🔭 Senior Data Analyst & Data Engineer with a B.Sc. in Computer Engineering from METU (2025), building toward Data Science. I turn messy operational data into reliable, repeatable pipelines and decision-ready insight — and build payment-risk and fraud-scoring projects to deepen my data engineering and ML work.
 
 - 💼 I build SQL-based people-analytics and reporting-automation solutions, plus cloud data pipelines on Google Cloud (BigQuery, dbt, Airflow) and ML scoring services.
 - 🎓 **HarvardX Data Science Professional Certificate** (Oct 2025) · **Codecademy Data Engineer Career Path** (2026) · **Kodluyoruz & Patika.dev Data Science Internship** (2022).
