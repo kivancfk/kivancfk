@@ -126,16 +126,3 @@ Recommendation-system project using the MovieLens 10M dataset.
 ## 🔗 Connect
 
 [LinkedIn](https://linkedin.com/in/kivancfk) · [GitHub](https://github.com/kivancfk) · [Kaggle](https://kaggle.com/kivancfk) · [HackerRank](https://hackerrank.com/kivancfk)
-
----
-
-## 📊 GitHub Stats
-
-![Kıvanç's GitHub stats](https://github-readme-stats.vercel.app/api?username=kivancfk&show_icons=true&theme=radical)
-
----
-
-## 🧠 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kivancfk&layout=compact&theme=radical)
-```
