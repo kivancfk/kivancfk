@@ -26,7 +26,7 @@ End-to-end payment-risk data platform using a modern data stack.
 
 ---
 
-### **RiskFlow PayGuard — Real-Time Fraud Scoring**
+### **RiskFlow PayGuard — Real-Time Payment Fraud Risk Scoring System
 Real-time ML scoring service for fraud-risk decisions.
 
 `FastAPI` · `LightGBM` · `SHAP` · `scikit-learn` · `Docker`
